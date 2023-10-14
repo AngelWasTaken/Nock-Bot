@@ -1,7 +1,7 @@
 from discord.ext import commands
 import discord
 
-BOT_TOKEN = "MTA1NDQ0MzcxNzc2MDY0NzE2OQ.GGioCP.nvMZRdYlON_wYpSfNAis3xX-vBcHSlW5oeIimI"
+BOT_TOKEN = "Ngl I almost forgor about this"
 CHANNEL_ID = 1041579268305584190
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
