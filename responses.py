@@ -1,17 +1,2 @@
-import random
-
-
-def handle_response(message) -> str:
-    p_message = message.lower()
-
-    if p_message == 'hello':
-        return "Fortnite battle pass"
-
-    if p_message == 'roll':
-        return str(random.randint(1, 100))
-
-    if p_message == '!help':
-        return "´No´"
-
-    else:
-        return "idk what you said lmfao"
+#I forgot what this is for ignore this
+#in other words I forgot how to delete this and its 2am so no im not trying
